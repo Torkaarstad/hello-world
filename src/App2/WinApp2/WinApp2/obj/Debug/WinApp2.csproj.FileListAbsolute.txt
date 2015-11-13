@@ -1,0 +1,9 @@
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\bin\Debug\WinApp2.exe.config
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\bin\Debug\WinApp2.exe
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\bin\Debug\WinApp2.pdb
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.csprojResolveAssemblyReference.cache
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.Form1.resources
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.Properties.Resources.resources
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.csproj.GenerateResource.Cache
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.exe
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.pdb
