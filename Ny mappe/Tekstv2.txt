@@ -1,4 +1,2 @@
 Opprettelse av v2.
 Dette er en readme..
-
-hei der v3
