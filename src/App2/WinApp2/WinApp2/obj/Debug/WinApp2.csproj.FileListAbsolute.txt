@@ -7,3 +7,5 @@ C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.Properties.R
 C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.csproj.GenerateResource.Cache
 C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.exe
 C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\obj\Debug\WinApp2.pdb
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\bin\Debug\Itenso.TimePeriod.dll
+C:\Src\GitHub\HelloWorld\src\App2\WinApp2\WinApp2\bin\Debug\de\Itenso.TimePeriod.resources.dll
